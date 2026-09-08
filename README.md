@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**hiohoi/hiohoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... finishing the designs for my autonomous platform. I still haven't created a codebase for it but I did log into the linux system. I was amazed that ubuntu enables web searching. I thought it was just a CLI with nothing fancy not a whole gui that resembles a windows desktop in many ways.
 - 🌱 I’m currently learning ... Computer Science at ODU.
 - 👯 I’m looking to collaborate on ... automation and writing software for autonomous household platforms that can do more than 5-10 different things.
